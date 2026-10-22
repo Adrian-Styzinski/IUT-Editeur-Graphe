@@ -1,6 +1,6 @@
 # Éditeur de graphes (C# / Windows Forms)
 
-Application de bureau en C# (.NET 8, Windows Forms) pour dessiner des graphes : créer des nœuds, les relier par des traits, les déplacer, les sélectionner à plusieurs, modifier leurs propriétés, zoomer et annuler ou rétablir ses actions. Projet réalisé en 2026 dans le cadre du module R2.02 « Développement d'applications avec IHM » (BUT Informatique, IUT de Bordeaux).
+Application de bureau en C# (.NET 8, Windows Forms) pour dessiner des graphes : créer des nœuds, les relier par des traits, les déplacer, les sélectionner à plusieurs, modifier leurs propriétés, zoomer et annuler ou rétablir ses actions. Projet réalisé dans le cadre du BUT Informatique (IUT de Bordeaux).
 
 ## Fonctionnalités
 
@@ -53,7 +53,7 @@ C# et .NET 8, Windows Forms, programmation événementielle (souris, clavier, me
 
 ```bash
 git clone https://github.com/Chocopter/IUT-Editeur-Graphe.git
-cd IUT-Editeur-Graphe/drawing
+cd IUT-Editeur-Graphe/Drawing
 dotnet run --project Drawing/Drawing.csproj
 ```
 
