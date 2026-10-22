@@ -52,7 +52,7 @@ C# et .NET 8, Windows Forms, programmation événementielle (souris, clavier, me
 ## Installation et lancement
 
 ```bash
-git clone https://github.com/Chocopter/IUT-Editeur-Graphe.git
+git clone https://github.com/Adrian-Styzinski/IUT-Editeur-Graphe.git
 cd IUT-Editeur-Graphe/Drawing
 dotnet run --project Drawing/Drawing.csproj
 ```
